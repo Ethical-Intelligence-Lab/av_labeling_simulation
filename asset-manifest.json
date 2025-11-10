@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/av_labeling_simulation/static/css/main.e6c13ad2.css",
-    "main.js": "/av_labeling_simulation/static/js/main.b3f1c9c5.js",
+    "main.js": "/av_labeling_simulation/static/js/main.02e41afc.js",
     "index.html": "/av_labeling_simulation/index.html",
     "main.e6c13ad2.css.map": "/av_labeling_simulation/static/css/main.e6c13ad2.css.map",
-    "main.b3f1c9c5.js.map": "/av_labeling_simulation/static/js/main.b3f1c9c5.js.map"
+    "main.02e41afc.js.map": "/av_labeling_simulation/static/js/main.02e41afc.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b3f1c9c5.js"
+    "static/js/main.02e41afc.js"
   ]
 }
